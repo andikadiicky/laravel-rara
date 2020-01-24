@@ -22,7 +22,7 @@
 <div class="card text-center color-block" style="background: linear-gradient(to right, rgb(255, 251, 213), rgb(178, 10, 44))">
   <div class="card-body">
     <h1 class="card-title" style="font-family: 'Gochi Hand', cursive;">Sistem Informasi Ekskul</h1>
-    <h2 class="card-text" style="font-family: 'Rubik Mono One', sans-serif; font-size:18px">SMA NEGERI 6 Jakarta</h2>
+    <h2 class="card-text" style="font-family: 'Rubik Mono One', sans-serif; font-size:18px">SMA NEGERI 6 Bekasi</h2>
   </div>
 </div>
 <!-- header END -->

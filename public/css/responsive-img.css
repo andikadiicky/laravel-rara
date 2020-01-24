@@ -1,0 +1,51 @@
+.masthead {
+  overflow: hidden;
+  color: #FFF;
+  padding: 1em;
+  background-color: #404040;
+}
+.masthead.responsive-image {
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 200px;
+}
+
+.masthead .entry-header {
+  margin: 7.5em 0 3.5em 0;
+  font-weight: 300;
+  line-height: 1.5;
+  overflow: auto;
+}
+@media screen and (min-width: 640px) {
+  .masthead .entry-header {
+    margin: 15.5em 0 7.5em 0;
+  }
+}
+
+.masthead .entry-title {
+  font-size: 2.5;
+  line-height: 1;
+  font-weight: 700;
+  margin: 0 0 0.25em 0;
+}
+@media screen and (min-width: 640px) {
+  .masthead .entry-title {
+    max-width: 650px;
+    font-size: 4em;
+  }
+}
+
+.masthead .entry-subtitle {
+  font-family: "freight-text-pro";
+  font-style: italic;
+  line-height: 1.25;
+  margin-top: 0;
+  margin-bottom: 0.35em;
+  color: #9BA800;
+  font-size: 1.5em;
+}
